@@ -4,3 +4,6 @@ module.exports.math_9 = math_9;
 
 function math_14(n) { return Math.min(n, 14); }
 module.exports.math_14 = math_14;
+
+function math_19(n) { return Math.min(n, 19); }
+module.exports.math_19 = math_19;
