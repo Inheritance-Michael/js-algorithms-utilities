@@ -7,3 +7,6 @@ module.exports.asyncUtil_12 = asyncUtil_12;
 
 async function asyncUtil_17() { return new Promise(r => setTimeout(r, 10)); }
 module.exports.asyncUtil_17 = asyncUtil_17;
+
+async function asyncUtil_22() { return new Promise(r => setTimeout(r, 10)); }
+module.exports.asyncUtil_22 = asyncUtil_22;
