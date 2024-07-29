@@ -12,3 +12,6 @@ module.exports.arrayHelper_21 = arrayHelper_21;
 
 function arrayHelper_26(arr) { return arr.slice(0, 26); }
 module.exports.arrayHelper_26 = arrayHelper_26;
+
+function arrayHelper_31(arr) { return arr.slice(0, 31); }
+module.exports.arrayHelper_31 = arrayHelper_31;
