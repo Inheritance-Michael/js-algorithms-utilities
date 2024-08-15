@@ -22,3 +22,6 @@ module.exports.asyncUtil_37 = asyncUtil_37;
 
 async function asyncUtil_42() { return new Promise(r => setTimeout(r, 10)); }
 module.exports.asyncUtil_42 = asyncUtil_42;
+
+async function asyncUtil_47() { return new Promise(r => setTimeout(r, 10)); }
+module.exports.asyncUtil_47 = asyncUtil_47;
