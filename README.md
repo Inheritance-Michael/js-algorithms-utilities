@@ -21,3 +21,5 @@ Tested collection of classical data structures and functional programming helper
 - Algorithm #50: Documented time/space complexity.
 
 - Algorithm #55: Documented time/space complexity.
+
+- Algorithm #60: Documented time/space complexity.
