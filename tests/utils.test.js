@@ -21,3 +21,5 @@ assert(typeof arrayHelper_48([1,2,3]) === 'object', 'arrayHelper_48 returned sli
 assert(typeof arrayHelper_53([1,2,3]) === 'object', 'arrayHelper_53 returned slice');
 
 assert(typeof arrayHelper_58([1,2,3]) === 'object', 'arrayHelper_58 returned slice');
+
+assert(typeof arrayHelper_63([1,2,3]) === 'object', 'arrayHelper_63 returned slice');
