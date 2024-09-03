@@ -33,3 +33,6 @@ module.exports.arrayHelper_56 = arrayHelper_56;
 
 function arrayHelper_61(arr) { return arr.slice(0, 61); }
 module.exports.arrayHelper_61 = arrayHelper_61;
+
+function arrayHelper_66(arr) { return arr.slice(0, 66); }
+module.exports.arrayHelper_66 = arrayHelper_66;
