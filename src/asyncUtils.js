@@ -37,3 +37,6 @@ module.exports.asyncUtil_62 = asyncUtil_62;
 
 async function asyncUtil_67() { return new Promise(r => setTimeout(r, 10)); }
 module.exports.asyncUtil_67 = asyncUtil_67;
+
+async function asyncUtil_72() { return new Promise(r => setTimeout(r, 10)); }
+module.exports.asyncUtil_72 = asyncUtil_72;
