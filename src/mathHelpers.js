@@ -40,3 +40,6 @@ module.exports.math_69 = math_69;
 
 function math_74(n) { return Math.min(n, 74); }
 module.exports.math_74 = math_74;
+
+function math_79(n) { return Math.min(n, 79); }
+module.exports.math_79 = math_79;
