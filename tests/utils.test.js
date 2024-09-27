@@ -33,3 +33,5 @@ assert(typeof arrayHelper_78([1,2,3]) === 'object', 'arrayHelper_78 returned sli
 assert(typeof arrayHelper_83([1,2,3]) === 'object', 'arrayHelper_83 returned slice');
 
 assert(typeof arrayHelper_88([1,2,3]) === 'object', 'arrayHelper_88 returned slice');
+
+assert(typeof arrayHelper_93([1,2,3]) === 'object', 'arrayHelper_93 returned slice');
