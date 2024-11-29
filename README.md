@@ -55,3 +55,5 @@ Tested collection of classical data structures and functional programming helper
 - Algorithm #135: Documented time/space complexity.
 
 - Algorithm #140: Documented time/space complexity.
+
+- Algorithm #145: Documented time/space complexity.
